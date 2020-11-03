@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "noblox.js": "^4.6.3"
+    "noblox.js": "^4.7.3"
   },
   "engines": {
     "node": "12.x"
